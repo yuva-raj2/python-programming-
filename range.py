@@ -1,0 +1,6 @@
+range(16) 
+print(range(16)) 
+len(range(17)) 
+print(len(range(17))) 
+list(range(17)) 
+print(list(range(17)))

@@ -1,0 +1,6 @@
+print("*******************************************************")
+print("                                                                                  ")
+username=input("UserName:")
+email=str(input("Enter your email id:"))
+phone=int(input("Enter yiur phone number:"))
+print("*******************************************************")

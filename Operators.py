@@ -1,0 +1,11 @@
+a=10
+b=23 
+print("Num 1+Num2=",a+b);
+print("Num 1*Num 2=",a*b); 
+print("Num 1-Num 2=",a-b);
+print("Num 1/Num 2=",a/b); 
+print("Num 1//Num 2=",a//b); 
+print("Num 1**Num 2=",a**b); 
+print("Num 1|Num 2=",a|b); 
+print("Num 1%Num 2=",a%b); 
+print("Num 1&Num 2=",a&b); 
